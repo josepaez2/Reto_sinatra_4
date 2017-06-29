@@ -1,7 +1,7 @@
 require "sinatra"
 
 #Página universal, al final!!
-get "/:titulo" do
+get "/" do
 # CODIGO SECRETO
 "HcUy6Re2LLBRtj"
 end
